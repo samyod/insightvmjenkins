@@ -1,4 +1,4 @@
-FROM centos:centos5
+FROM ubuntu:13.04
 
 MAINTAINER The Ikaruslab Project samyod@bluezebra.co.th
 
