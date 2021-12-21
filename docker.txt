@@ -1,4 +1,4 @@
-FROM centos:centos7.3.1611
+FROM centos:centos5
 
 MAINTAINER The Ikaruslab Project samyod@bluezebra.co.th
 
